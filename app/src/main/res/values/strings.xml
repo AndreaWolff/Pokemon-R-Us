@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokemon-R-Us</string>
+
+    <string name="height_label">Height:</string>
+    <string name="weight_label">Weight:</string>
+
+    <string name="content_description">Pokemon image</string>
+</resources>
